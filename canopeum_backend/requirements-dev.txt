@@ -16,3 +16,4 @@ types-requests>=2.31.0
 types-setuptools>=69.2.0
 types-six>=1.16.0
 types-tqdm>=4.66.0
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
