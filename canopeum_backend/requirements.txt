@@ -9,7 +9,7 @@ click==8.1.7
 colorama==0.4.6
 cssbeautifier==1.15.1
 distlib==0.3.8
-Django==5.0.3
+Django==5.0.14
 django-cors-headers==4.3.1
 django-stubs==4.2.7
 django-stubs-ext==4.2.7
